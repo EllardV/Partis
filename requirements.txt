@@ -5,5 +5,5 @@ seaborn==0.9.0
 mpld3==0.3
 ipyvuetify==1.2.2
 ipywidgets==7.5.1
-numpy==1.16.5
+numpy==1.22.0
 voila
